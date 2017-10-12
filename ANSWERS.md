@@ -5,6 +5,7 @@
 2. What command followed after with `Cat.new` will emulate the same behavior as `Cat.create`?
 
 3. What is the default integer column that exists on every table but we did NOT define?
+id
 
 4. What single line of ruby code can insert a cat with the name "Kira" in the database?
 
